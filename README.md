@@ -3,7 +3,7 @@ Configurações básicas para documentação da API com Swagger e Spring Boot
 
 
 http://localhost:8080/swagger-ui.html#/
-Swagger
+
 1º PASSO - colocar as dependências do swagger
 Traz a interface gráfica para visualização da documentação e fazer requisições
 
