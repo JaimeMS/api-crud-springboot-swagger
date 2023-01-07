@@ -1,6 +1,4 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/JaimeDevS/api-crud-springboot?style=plastic)
-![GitHub](https://img.shields.io/github/license/JaimeDevS/api-crud-springboot?style=plastic)
-![GitHub top language](https://github.com/JaimeMS/api-crud-springboot-swagger?style=plastic)
 
 # Documentação com Swagger
 
